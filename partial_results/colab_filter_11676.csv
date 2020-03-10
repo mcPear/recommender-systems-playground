@@ -1,0 +1,690 @@
+,user_id,book_id,rating,title,authors,year,publisher
+0,11676,8445071408,6.490225629382359,El Senor De Los Anillos: LA Comunidad Del Anillo (Lord of the Rings (Spanish)),J. R. R. Tolkien,2001,Minotauro
+1,11676,2253007102,6.369106778439943,Les Fleurs Du Mal,C. Baudelaire,1972,Livre De Poche French
+2,11676,8445071777,6.290001474075607,"El Senor De Los Anillos: El Retorno Del Rey (Tolkien, J. R. R. Lord of the Rings. 3.)",J. R. R. Tolkien,2001,Distribooks
+3,11676,0446677450,6.287014691929694,"Rich Dad, Poor Dad: What the Rich Teach Their Kids About Money--That the Poor and Middle Class Do Not!",Robert T. Kiyosaki,2000,Warner Books
+4,11676,3404118960,6.261939561559177,Die SÃ?Â¤ulen der Erde. Roman.,Ken Follett,1992,LÃ?Â¼bbe
+5,11676,0156528207,6.184122317296764,The Little Prince,Antoine de Saint-ExupÃ©ry,1968,Harcourt
+6,11676,0684801221,6.093255866137784,OLD MAN AND THE SEA,Ernest Hemingway,1995,Scribner
+7,11676,0060558865,6.087176991053395,Ella Enchanted (rack),Gail Carson Levine,2004,Avon
+8,11676,0399148582,5.918086862487704,You Cannot Be Serious,John McEnroe,2002,Putnam Publishing Group
+9,11676,0590481371,5.8624796666534085,I Spy Spooky Night: A Book of Picture Riddles (I Spy Books),Walter Wick,1996,Scholastic
+10,11676,8445071769,5.833516266408776,El Senor De Los Anillos: Las DOS Torres (Lord of the Rings (Paperback)),J. R. R. Tolkien,2001,Minotauro
+11,11676,0684717255,5.811953109452287,I And Thou,Martin Buber,1971,Free Press
+12,11676,0345403339,5.795351040153552,Saving Grace,LEE SMITH,1996,Ballantine Books
+13,11676,0679801146,5.688527956202512,Alanna: The First Adventure (Song of the Lioness (Paperback)),Tamora Pierce,1989,Random House Children's Books
+14,11676,3596214629,5.685410257381668,"Herr Der Fliegen (Fiction, Poetry and Drama)",Golding,0,Fischer Taschenbuch Verlag GmbH
+15,11676,0060927240,5.650486156326126,"Rule of the Bone : Novel, A",Russell Banks,1996,Perennial
+16,11676,0743213831,5.640572520490219,America the Beautiful: A Novel,Moon Unit Zappa,2001,Touchstone
+17,11676,0394551427,5.614546375461436,Shoah,Claude Lanzmann,1985,Random House Inc
+18,11676,0380730448,5.580458437943136,"The Adrian Mole Diaries : The Secret Diary of Adrian Mole, Aged 13 3/4 : The Growing Pains of Adrian Mole",Sue Townsend,1997,Perennial
+19,11676,0345430476,5.565475380263621,A Small Dark Place,Martin Schenk,1999,Ballantine Books
+20,11676,015600710X,5.517737971032483,Strange Fits of Passion: A Novel,Anita Shreve,1999,Harvest Books
+21,11676,0553347594,5.499284423686627,McDonald's: Behind the Arches,John F. Love,1995,Bantam
+22,11676,0553278223,5.493879522768545,The Martian Chronicles,RAY BRADBURY,1984,Spectra
+23,11676,3442724686,5.484963985351184,Der Gott der kleinen Dinge.,Arundhati Roy,1999,btb
+24,11676,0140292918,5.481995444634013,"Of Mice and Men (Steinbeck \Essentials\"")""",John Steinbeck,2001,Penguin Books Ltd
+25,11676,015216250X,5.448318698511239,So You Want to Be a Wizard: The First Book in the Young Wizards Series,Diane Duane,2001,Magic Carpet Books
+26,11676,0140107649,5.429985814688914,Blue Heaven (Contemporary American Fiction S.),Joe Keenan,1988,Penguin Books
+27,11676,0345428544,5.413613414890068,"Dark Tide I: Onslaught (Star Wars: The New Jedi Order, Book 2)",Michael A. Stackpole,2000,Del Rey Books
+28,11676,156971620X,5.372229260915848,Harlequin Valentine,Neil Gaiman,2002,Dark Horse Comics
+29,11676,0679410430,5.366261369436714,Lolita (Everyman's Library (Cloth)),VLADIMIR NABOKOV,1993,Everyman's Library
+30,11676,0312283784,5.358846519260631,Alice's Tulips,Sandra Dallas,2001,St. Martin's Griffin
+31,11676,006017143X,5.3587811244758115,The Night Listener,Armistead Maupin,2000,HarperCollins Publishers
+32,11676,0380973839,5.33993861048468,Martian Chronicles,Ray Bradbury,1997,William Morrow
+33,11676,0380788497,5.335332100412116,Changer,Jane Lindskold,1998,Eos
+34,11676,3404121686,5.3287474642412676,Nacht Ã?Â¼ber den Wassern.,Ken Follett,1994,LÃ?Â¼bbe
+35,11676,0689832877,5.327479347607608,Sunwing (Aladdin Fantasy),Kenneth Oppel,2001,Aladdin
+36,11676,2253043974,5.319628869582451,Chronique d'une mort annoncÃ?Â©e,Gabriel Garcia Marquez,1987,LGF
+37,11676,0439221676,5.310085321295338,"All That Glitters (Avalon, 2)",Rachel Roberts,2001,Scholastic
+38,11676,0385316895,5.307247282269954,Legacy of Silence,Belva Plain,1998,Bantam Dell Pub Group
+39,11676,0671623249,5.290909563638099,LONESOME DOVE,Larry McMurtry,1986,Pocket
+40,11676,0671868713,5.289099274280664,And Never Let Her Go : Thomas Capano: The Deadly Seducer,Ann Rule,2000,Pocket
+41,11676,0767905938,5.285238684322034,A Year by the Sea: Thoughts of an Unfinished Woman,Joan Anderson,2000,Broadway Books
+42,11676,0312312628,5.276414137125005,Out of the Deep I Cry : A Clare Fergusson/Russ Van Alstyne Mystery,Julia Spencer-Fleming,2004,St. Martin's Minotaur
+43,11676,0786868015,5.273091811618615,The Diary of Ellen Rimbauer: My Life at Rose Red,Joyce Reardon,2001,Hyperion
+44,11676,080521061X,5.27205512153062,Montessori Today: A Comprehensive Approach to Education from Birth to Adulthood,Paula Polk Lillard,1996,Schocken Books
+45,11676,0439042917,5.258892141674596,The Hork-Bajir Chronicles (Animorphs Series),K. A. Applegate,1998,Scholastic
+46,11676,0385500769,5.258741140919314,A Map of the World,Jane Hamilton,1999,Doubleday Books
+47,11676,0671018930,5.254242967732,The War in Heaven (Eternal Warriors),Theodore Beale,2000,Pocket
+48,11676,156718796X,5.25358304219146,Astral Travel for Beginners (For Beginners),Richard Webster,1998,Llewellyn Publications
+49,11676,0345372700,5.216251816271857,"If I Ever Get Back to Georgia, I'm Gonna Nail My Feet to the Ground",LEWIS GRIZZARD,1991,Ballantine Books
+50,11676,0451456548,5.212173443337546,Cold Iron,Melisa Michaels,1997,Roc
+51,11676,0385497679,5.207355978887211,Hidden in Plain View: A Secret Story of Quilts and the Underground Railroad,Jacqueline L. Tobin,2000,Anchor Pub
+52,11676,087113375X,5.2056801471829734,Modern Manners: An Etiquette Book for Rude People,P.J. O'Rourke,1990,Atlantic Monthly Press
+53,11676,0440226694,5.205054881933978,Lena (50 State Quarters),JACQUELINE WOODSON,2000,Laurel Leaf
+54,11676,0449912302,5.174471806411532,Dave Barry in Cyberspace,Dave Barry,1997,Ballantine Books
+55,11676,0152162445,5.163435515945503,High Wizardry: The Third Book in the Young Wizards Series,Diane Duane,2001,Magic Carpet Books
+56,11676,0060914068,5.162356002095332,"Love, Medicine and Miracles",M.D. Bernie S. Siegel,1988,HarperCollins Publishers
+57,11676,0345354931,5.161049566701086,Night Mare (Xanth Novels (Paperback)),Piers Anthony,1990,Del Rey Books
+58,11676,0140252800,5.144193565008751,The Brimstone Wedding,Barbara Vine,1997,Penguin Books Ltd
+59,11676,0525943862,5.130434486225818,Cheaters,Eric Jerome Dickey,1999,Dutton Books
+60,11676,0747538069,5.1292890024245406,The Adventures of Dougal,Eric Thompson,1998,Bloomsbury Publishing PLC
+61,11676,0486282112,5.122639076861395,Frankenstein (Dover Thrift Editions),Mary Wollstonecraft Shelley,1994,Dover Publications
+62,11676,1401201172,5.119184352174033,"League of Extraordinary Gentlemen, Vol. 2 (Comic)",Alan Moore,2003,DC Comics
+63,11676,1563411148,5.108063740351554,The Second Coming of Curly Red,Jody Seay,1999,Firebrand Books
+64,11676,0486415864,5.104015338385631,Great Expectations (Dover Thrift Editions),Charles Dickens,2001,Dover Publications
+65,11676,0030096189,5.0782771195705205,Organic Chemistry (Saunders Golden Sunburst Series),Stephen J. Weininger,1994,Saunders College Publishing
+66,11676,0345413369,5.075618512563408,"The Subtle Knife (His Dark Materials, Book 2)",PHILIP PULLMAN,1998,Del Rey
+67,11676,0786889160,5.074669166354848,"No Shirt, No Shoes, No Problem!",Jeff Foxworthy,1997,Warner Books (Mm)
+68,11676,0060563079,5.045125544307817,Peter Pan: The Original Story (Peter Pan),J. M. Barrie,2003,HarperFestival
+69,11676,2266029460,5.032484703815002,Voyage d'une parisienne Ã?Â  Lhassa,Alexandra David-NÃ?Â©el,1989,Pocket
+70,11676,0875421288,5.03236496648481,"The Complete Book of Incense, Oils &amp; Brews (Llewellyn's Practical Magick)","Scott, Cunningham",1989,Llewellyn Publications
+71,11676,0395710901,5.028295561655713,"Punished by Rewards: The Trouble With Gold Stars, Incentive Plans, A'S, Praise, and Other Bribes",Alfie Kohn,1995,Houghton Mifflin
+72,11676,0060013117,5.0233789945607406,Night Watch,Terry Pratchett,2002,HarperCollins
+73,11676,0156047624,5.022005379731281,All the King's Men,Robert Penn Warren,1982,Harvest Books
+74,11676,0345369068,5.017749248714026,"If Ever I Return, Pretty Peggy-O",Sharyn McCrumb,1991,Fawcett Books
+75,11676,0451406923,5.014077586060867,"Goodbye, My Little Ones: The True Story of a Murderous Mother and Five Innocent Victims",Charles Hickey,1996,Onyx Books
+76,11676,3596144434,5.012311001372088,Der gemietete Mann.,Hera Lind,1999,"Fischer (Tb.), Frankfurt"
+77,11676,0684193957,5.006482873445749,ALL THAT REMAINS,Patricia Cornwell,1992,Scribner
+78,11676,3404921038,5.00332102888927,Wie Barney es sieht.,Mordecai Richler,2002,LÃ?Â¼bbe
+79,11676,0679603352,5.00076808305473,The Cider House Rules: A Novel (Modern Library),John Irving,1999,Modern Library
+80,11676,0064472264,4.987957190193939,"On the Bright Side, I'm Now the Girlfriend of a Sex God: Further Confessions of Georgia Nicolson",Louise Rennison,2002,HarperTempest
+81,11676,0380704587,4.983827736459417,The Ladies of Missalonghi,Colleen McCullough,1988,Avon
+82,11676,0374386676,4.9824998131208655,The Year They Burned the Books,Nancy Garden,1999,Farrar Straus Giroux
+83,11676,0345391691,4.980204450544667,The Battle for God,Karen Armstrong,2001,Ballantine Books
+84,11676,0425049981,4.979201657550651,Titan,John Varley,1980,Berkley Publishing Group
+85,11676,0609606727,4.9775268623172275,Julie and Romeo,Jeanne Ray,2000,Harmony
+86,11676,2020315491,4.977483091529707,Le neveu d'AmÃ?Â©rique,Luis SepÃ?Âºlveda,1998,Seuil
+87,11676,0890877564,4.976115246740586,Totally Muffins Cookbook (Totally Cookbooks),Helene Siegel,1995,Celestial Arts
+88,11676,0425174484,4.970588009671653,"Expecting Adam: A True Story of Birth, Rebirth, and Everyday Magic",Martha Beck,2000,Berkley Publishing Group
+89,11676,0380817144,4.967432312687123,Lord of the Silent: A Novel of Suspense,Elizabeth Peters,2002,Avon
+90,11676,0849943450,4.9510521269288095,The Canopy,Angela Elwell Hunt,2003,WestBow Press
+91,11676,039914370X,4.945254360586456,Sudden Mischief (Spenser Mysteries (Hardcover)),Robert B. Parker,1998,Putnam Pub Group
+92,11676,0060801263,4.94262510697451,Tree Grows In Brooklyn,Betty Smith,1988,Harpercollins Publisher
+93,11676,3257203659,4.937490456481333,Der illustrierte Mann. ErzÃ?Â¤hlungen.,Ray Bradbury,2002,Diogenes
+94,11676,2253148539,4.926276662067842,Le Loup-garou,Boris Vian,1999,LGF
+95,11676,0345305477,4.924324692655353,Easy Travel to Other Planets,Ted Mooney,1982,Ballantine Books
+96,11676,0553279572,4.918775735675985,The Toynbee Convector,Ray Bradbury,1989,Spectra Books
+97,11676,3492045642,4.917519769256623,QuerschÃ?Â¼sse - Downsize This!,Michael Moore,2003,Piper
+98,11676,0071416331,4.915975822290468,Team Bush : Leadership Lessons from the Bush White House,Donald F. Kettl,2003,McGraw-Hill
+99,11676,0515134279,4.8896136551582785,The Straw Men,Michael Marshall,2002,Jove Books
+100,11676,3257216416,4.885892456492564,Der Tod kommt schnell in Mexico. ErzÃ?Â¤hlungen.,Ray Bradbury,1988,Diogenes Verlag
+101,11676,0590419625,4.882922760747626,The Teacher from the Black Lagoon,Mike Thaler,1989,Scholastic
+102,11676,0440235502,4.8795523460480625,October Sky: A Memoir,Homer Hickam,1999,Dell
+103,11676,0553258524,4.871575714767037,Dragonsong (Harper Hall Trilogy),Anne McCaffrey,1977,Bantam
+104,11676,0373836023,4.871425459443078,Powder and Patch,Georgette Heyer,2004,Harlequin
+105,11676,006102063X,4.867054816572641,Moving Pictures (Discworld Novels (Paperback)),Terry Pratchett,2002,HarperTorch
+106,11676,0435272683,4.866706439147068,Great Expectations (Heinemann Guided Readers),John Milne,1995,Delta Systems
+107,11676,0894342789,4.8582664718153215,College Majors and Careers: A Resource Guide for Effective Life Planning (College Majors and Careers),Paul Phifer,1999,Ferguson Publishing Company
+108,11676,0486206173,4.85046935986953,Rubinstein's Chess Masterpieces,Akiba Rubinstein,1941,Dover Publications
+109,11676,0440219604,4.847145825696233,I Hadn't Meant to Tell You This,Jacqueline Woodson,1995,Laurel-Leaf Books
+110,11676,0062770500,4.84179425655617,Seattle Access,HarperReference,1993,Access Press (HarperCollins)
+111,11676,0140021566,4.840760979686024,The Mystic Masseur,V.S. Naipaul,1993,Penguin USA
+112,11676,2266084372,4.839544166266798,Pourquoi j'ai mangÃ?Â© mon pÃ?Â¨re,Lewis,2000,Pocket
+113,11676,0061040967,4.831024837473114,The Last Hero : A Discworld Fable (Discworld Novels (Hardcover)),Terry Pratchett,2001,HarperCollins
+114,11676,0945586051,4.830745024138657,The Doctor the Patient: The Personal Journey of a Physician With Cancer,Allen Widome,1989,Editech Pr
+115,11676,0451195663,4.8293243856586825,Primal Scream,Michael Slade,1998,Signet Book
+116,11676,3426605686,4.8278124580199915,Haifischfrauen.,Kiana Davenport,1996,"Droemersche Verlagsanstalt Th. Knaur Nachf., GmbH &amp; Co."
+117,11676,0060191929,4.824157237352248,The Saving Graces : A Novel,Patricia Gaffney,1999,HarperCollins
+118,11676,067176537X,4.818259075992536,The Therapeutic Touch: How to Use Your Hands to Help or to Heal,Dolores Krieger,1979,Fireside
+119,11676,0787955671,4.813041612878163,The Future of Leadership: Today's Top Leadership Thinkers Speak to Tomorrow's Leaders,Warren  Bennis,2001,Jossey-Bass
+120,11676,8427007450,4.808044142334043,Desaparecido: LA Autentica Historia De LA Ejecucion De Charles Horman,Thomas Hauser,1982,Lectorum Pubns (J)
+121,11676,0679865691,4.807482354401908,Haveli (Laurel Leaf Books),SUZANNE FISHER STAPLES,1995,Laurel Leaf
+122,11676,0590629719,4.8035043088043885,Clifford's Sports Day,Norman Bridwell,1996,Scholastic
+123,11676,0771076002,4.800148615731624,Remembering Peter Gzowski : A Book of Tributes,EDNA BARKER,2002,Douglas Gibson Books
+124,11676,039575514X,4.79843595421755,My Antonia,Willa Cather,1995,Mariner Books
+125,11676,1877727083,4.796346966272032,Vertical Poetry: Recent Poems,Roberto Juarroz,1992,White Pine Press (NY)
+126,11676,0385313748,4.795363830704583,All Our Yesterdays (Large Print),Robert B. Parker,1994,Delacorte Press
+127,11676,1563898586,4.7947826276345875,"The League of Extraordinary Gentlemen, Vol. 1",Alan Moore,2002,DC Comics
+128,11676,0312156960,4.793108079858118,The Winter King: A Novel of Arthur (The Warlord Chronicles: I),Bernard Cornwell,1997,St. Martin's Griffin
+129,11676,0802114369,4.7930142177553545,Ohitika Woman,Mary Brave Bird,1993,Pub Group West
+130,11676,1880185008,4.79156582204575,"Serving As Senders: How to Care for Your Missionaries While They Are Preparing to Go, While They Are on the Field, When They Return Home",Neal Pirolo,1991,Emmaus Road Intl
+131,11676,0198604025,4.790395448151491,How Not to Say What You Mean: A Dictionary of Euphemisms (Oxford Paperback Reference S.),R. W. Holder,2003,Oxford University Press
+132,11676,0812504208,4.790137374366602,The Adventures of Tom Sawyer,Mark Twain,1989,Tor Books
+133,11676,0889740828,4.78639105517295,Love Ruins Everything: A Novel,Karen X. Tulchinsky,1998,Press Gang Publishers
+134,11676,1862047626,4.780480987839713,New Perspectives: Runes,Bernard King,2000,Harper Collins - UK
+135,11676,0312853238,4.777086664075694,Ender's Game (Ender Wiggins Saga (Paperback)),Orson Scott Card,1992,Tor Books
+136,11676,0767912918,4.775650471077303,Passing for Thin : Losing Half My Weight and Finding My Self,FRANCES KUFFEL,2004,Broadway
+137,11676,0767903285,4.775333929997079,Raise the Roof: The Inspiring Inside Story of the Tennessee Lady Vols' Undefeated 1997-98 Season,Pat Head Summitt,1998,Broadway Books
+138,11676,8475960936,4.773858712490843,Les llengÃ¼es d'Africa (Biblioteca universal EmpÃºries),M. Carme Junyent,1986,Editorial EmpÃºries
+139,11676,038533334X,4.771857201438872,Charming Billy,Alice McDermott,1999,Delta
+140,11676,0002740230,4.771701068946093,Keep It Simple: And Get More Out of Life,Nick Page,1999,Trafalgar Square
+141,11676,0670855758,4.7686145185749815,Tarot Says Beware (A Herculeah Jones Mystery),Betsy Byars,1995,Viking Books
+142,11676,9681500555,4.768402451327475,Diario de Ana Frank,Anne Frank,2000,"Editores Mexicanos Unidos, S.A."
+143,11676,0486285529,4.768271951955772,Solv-A-Crime Puzzles (Dover Game and Puzzle Activity Books),A. C. Gordon,1995,Dover Publications
+144,11676,1562827049,4.759647544783655,"The Diary of Jack the Ripper/the Discovery, the Investigation, the Debate",Jack,1993,Hyperion Books
+145,11676,0486284735,4.7595617445659,Pride and Prejudice (Dover Thrift Editions),Jane Austen,1995,Dover Publications
+146,11676,0345429176,4.759368360001219,"Ufos, JFK and Elvis: Conspiracies You Don't Have to Be Crazy to Believe",Richard Belzer,1999,Ballantine Books
+147,11676,0380538504,4.756826836833845,Amanda Miranda,Richard Peck,1981,Harper Mass Market Paperbacks (Mm)
+148,11676,043922165X,4.753348062477257,"Circles in the Stream (Avalon: Web of Magic, 1)",Shelly R. Roberts,2001,Scholastic
+149,11676,0151001006,4.751432123025569,Snow Falling on Cedars,David Guterson,1994,Harcourt
+150,11676,0381999866,4.750093101291628,Magic House of Numbers.,Irving. Adler,1974,Harpercollins Library
+151,11676,0486281965,4.747201014549275,The Country of the Pointed Firs (Dover Thrift Editions),Sarah Orne Jewett,1994,Dover Publications
+152,11676,0439221684,4.74583485843382,"Cry of the Wolf (Avalon, 3)",Rachel Roberts,2001,Scholastic
+153,11676,0316748641,4.744823683462929,Pasquale's Nose: Idle Days in an Italian Town,Michael Rips,2002,Back Bay Books
+154,11676,342311360X,4.744032276492436,Die Liebe in Den Zelten,Gabriel Garcia Marquez,0,Deutscher Taschenbuch Verlag (DTV)
+155,11676,0060938412,4.738632076703945,The Accidental Virgin,Valerie Frankel,2003,Avon Trade
+156,11676,1561672033,4.736989685760489,Antipodes 10,John Pascal,1995,Noble House
+157,11676,0416196772,4.73396374855239,Eeyore's Little Book of Gloom,Alan Alexander Milne,1999,Routledge
+158,11676,1569871213,4.733843924483001,Black Beauty (Illustrated Classics),Anna Sewell,1995,Landoll
+159,11676,0553225987,4.726545497961542,Robert's Rules of Order,William Eisner,1986,Bantam Books
+160,11676,0516076272,4.719768161667145,A polar bear called Pingo,Ilona Koidahl,1974,Childrens Press
+161,11676,0374157065,4.715010514015235,Flu: The Story of the Great Influenza Pandemic of 1918 and the Search for the Virus That Caused It,Gina Bari Kolata,1999,Farrar Straus Giroux
+162,11676,0449211770,4.713578179586092,The Tightrope Walker,Dorothy Gilman,1997,Fawcett Books
+163,11676,0553202294,4.713391342116674,Sun Signs,Linda Goodman,1981,Bantam Doubleday Dell
+164,11676,0451206673,4.712582760991791,Pen Pals,Olivia Goldsmith,2002,Signet Book
+165,11676,1563892278,4.703018186691257,"Preludes and Nocturnes (Sandman, Book 1)",Neil Gaiman,1998,DC Comics
+166,11676,0671000306,4.696656745214666,Shock Wave (Dirk Pitt Adventures (Paperback)),Clive Cussler,1996,Pocket
+167,11676,1552041778,4.692836838296936,Jane Doe,R. J. Kaiser,1999,Mira Books
+168,11676,0394743741,4.689740273109684,The yawning heights,Aleksandr Zinoviev,1980,Random House
+169,11676,0590406019,4.68727491232809,Last Battle,C. S. Lewis,1988,Scholastic Paperbacks (Mm)
+170,11676,0440415993,4.684611877349115,"Ties That Bind, Ties That Break (Laurel-Leaf Books)",Lensey Namioka,2000,Laurel-Leaf Books
+171,11676,0026329859,4.6816949911519545,From the Earth: Chinese Vegetarian Cooking,Eileen Yin-Fei Lo,1995,MacMillan Publishing Company.
+172,11676,3257208634,4.677732104268109,Die Mars- Chroniken. Roman in ErzÃ?Â¤hlungen.,Ray Bradbury,1981,Diogenes Verlag
+173,11676,0451450256,4.669882414571278,Gossamer Axe,Gael Baudino,1993,New Amer Library
+174,11676,156341029X,4.668425719948054,Stone Butch Blues,Leslie Feinberg,1993,Firebrand Books
+175,11676,3257207522,4.668077420122286,Der KÃ?Â¶nig in Gelb.,Raymond Chandler,1980,Diogenes Verlag
+176,11676,0140620664,4.667218860789587,Mansfield Park (Penguin Popular Classics),Jane Austen,1994,Penguin Books Ltd
+177,11676,1881320189,4.6630256146557665,Goodbye to the Buttermilk Sky,Julia Oliver,1994,River City Pub
+178,11676,185479549X,4.653925282763909,The World's Stupidest Laws,David Crombie,2000,Michael O'Mara Books
+179,11676,0553584383,4.653645923924431,Dead Aim,IRIS JOHANSEN,2004,Bantam Books
+180,11676,006015781X,4.652465764229511,Why Do Clocks Run Clockwise? and Other Imponderables: Mysteries of Everyday Life Explained,David Feldman,1987,Harpercollins
+181,11676,1567407781,4.648809562340759,The Witchfinder (Amos Walker Mystery Series),Loren D. Estleman,1998,Brilliance Audio - Trade
+182,11676,1858813093,4.648633065605241,Nessie: The Loch Ness Monster,Richard Brassey,2003,Trafalgar Square Books
+183,11676,0807070718,4.64639855603876,Rena's Promise: A Story of Sisters in Auschwitz,Rena Kornreich Gelissen,1996,Beacon Press
+184,11676,0439095026,4.644739677400198,Tell Me This Isn't Happening,Robynn Clairday,1999,Scholastic
+185,11676,0385235941,4.63544461877445,"Prize Stories, 1987: The O'Henry Awards",William Abrahams,1987,Doubleday Books
+186,11676,0393321576,4.632663745560757,Karl Marx: A Life,Francis Wheen,2001,W.W. Norton &amp; Company
+187,11676,8478098267,4.630349945508887,El dia que es va cremar el Liceu (La primera Columna),Joan Agut,1995,Columna
+188,11676,0312252617,4.628221174230795,Fast Women,Jennifer Crusie,2001,St. Martin's Press
+189,11676,0316314927,4.6250680797808235,Sarah Conley,Ellen Gilchrist,1998,Back Bay Books
+190,11676,0380807866,4.617277886956385,The Elusive Flame,Kathleen E. Woodiwiss,1999,Avon
+191,11676,0517577402,4.616017486769946,Mostly Harmless,Douglas Adams,1992,Random House Inc
+192,11676,0312906552,4.610374007936368,The Space Merchants,Frederik Pohl,1987,St Martins Pr
+193,11676,0671621009,4.607355222576364,Creating Wealth : Retire in Ten Years Using Allen's Seven Principles of Wealth!,Robert G. Allen,1986,Fireside
+194,11676,1579651658,4.597703432608519,The Journey From Here,Bill Bradley,2000,Artisan Publishers
+195,11676,1900850303,4.595059057004667,The Angelic Darkness,Richard Zimler,1999,Arcadia Books
+196,11676,0786886463,4.592830753899884,A Density of Souls,Christopher Rice,2001,Miramax
+197,11676,0962893862,4.59084596565057,Return to Isis,Jean Stewart,1992,Rising Tide Press (AZ)
+198,11676,0312980388,4.590491481700022,Warlock : A Novel of Ancient Egypt,Wilbur Smith,2002,St. Martin's Paperbacks
+199,11676,0316735027,4.58601607793732,The True and Outstanding Adventures of the Hunt Sisters: A Novel,Elisabeth Robinson,2004,"Little, Brown"
+200,11676,0380759497,4.585801866057378,Xanth 15: The Color of Her Panties,Piers Anthony,1992,Eos
+201,11676,0618173870,4.583074814013527,Everything Is Illuminated: A Novel,Jonathan Safran Foer,2002,Houghton Mifflin Company
+202,11676,0440222818,4.582751132604767,Guilt,John T. Lescroart,1998,Island
+203,11676,0345369947,4.581340791653153,The Mummy or Ramses the Damned,Anne Rice,1991,Ballantine Books
+204,11676,0571209521,4.580111452295674,Terrible Times (Eddie Dickens Trilogy S.),Philip Ardagh,2002,Faber Children's Books
+205,11676,0743249992,4.579918107966624,Bringing Down the House: The Inside Story of Six M.I.T. Students Who Took Vegas for Millions,Ben Mezrich,2003,Free Press
+206,11676,8478884963,4.5796420820829615,Una casa en Irlanda,Maeve Binchy,1999,Salamandra
+207,11676,0345428900,4.577919827968473,Out of the Blue,Sally Mandel,2000,Ballantine Books
+208,11676,3257212054,4.575642997297103,Das Kind von morgen. ErzÃ?Â¤hlungen.,Ray Bradbury,2000,Diogenes Verlag
+209,11676,0679401377,4.572822862238426,The Hellfire Club,Peter Straub,1996,Random House Inc
+210,11676,193072229X,4.5722253550847345,MoveOn's 50 Ways to Love Your Country: How to Find Your Political Voice and Become a Catalyst for Change,Moveon,2004,Inner Ocean Publishing
+211,11676,1414035004,4.571841948042164,The Adventures of Drew and Ellie: The Magical Dress,Charles Noland,2003,1stBooks Library
+212,11676,1857938011,4.57159357189905,A-Z of Behaving Badly,Simon Nye,1996,Trafalgar Square
+213,11676,0819154946,4.568488739319341,The Community in America,Roland Warren,1987,University Press of America
+214,11676,0679310002,4.568126290481879,Going down swinging,Billie Livingston,1999,Random House Canada
+215,11676,034543191X,4.5678254771535265,The King of Elfland's Daughter (Del Rey Impact),Edward John Moreton Drax Plunkett Dunsany,1999,Del Rey Books
+216,11676,0316116025,4.565165248817004,The Pinball Effect: How Renaissance Water Gardens Made the Carburetor Possible-And Other Journeys Through Knowledge (Pinball Effect),James Burke,1996,Little Brown &amp; Co
+217,11676,2080105434,4.564281648718657,The Little Book of Chocolate (Little Book Of...(Flammarion)),Alain Stella,2001,Flammarion
+218,11676,0373871562,4.561541621033404,Twin Blessings (Love Inspired (Numbered)),Carolyne Aarsen,2001,Steeple Hill
+219,11676,0060006048,4.557606349886978,Circle of Three #12: Written in the Stars (Circle of Three),Isobel Bird,2001,Avon
+220,11676,0394574745,4.556269422040182,"All the Pretty Horses (Border Trilogy, Vol 1)",Cormac McCarthy,1992,Alfred A. Knopf
+221,11676,0439510112,4.553543143625437,Born Confused,Tanuja Desai Hidier,2003,Push
+222,11676,0152162577,4.550368744849996,Deep Wizardry: The Second Book in the Young Wizards Series,Diane Duane,2001,Magic Carpet Books
+223,11676,0374343381,4.5492049638242795,Lark in the Morning,Nancy Garden,1991,Farrar Straus &amp; Giroux
+224,11676,0688048730,4.549145481293999,Thinking on paper,V. A Howard,1986,W. Morrow
+225,11676,8806142267,4.545901222032188,Viaggi del tempo immobile (I coralli),Roberto Vecchioni,1996,Einaudi
+226,11676,1561561428,4.541349694075153,Frankenstein (Illustrated Classics Series),Mary Wollstonecraft Shelley,1992,Kidsbooks.Com
+227,11676,0786913878,4.541036015338507,Pool of Radiance: The Ruins of Myth Drannor (Forgotten Realms),Carrie Bebris,2001,Wizards of the Coast
+228,11676,0821772953,4.539649628597906,The Morning After,Lisa Jackson,2004,Zebra Books
+229,11676,3499110695,4.53866716519645,Neun ErzÃ?Â¤hlungen.,Jerome D. Salinger,1968,Rowohlt Tb.
+230,11676,3548254268,4.532805062328951,Eine ganz normale AffÃ?Â¤re.,Joanna Trollope,2002,Ullstein Tb
+231,11676,1576737357,4.530416387545575,Diary of a Teenage Girl - Becoming Me : Diary Number 1 (Diary of a Teenage Girl),Melody Carlson,2000,Multnomah
+232,11676,2070417743,4.524186404612665,Chroniques martiennes,Ray Bradbury,2002,Gallimard
+233,11676,1888451084,4.518885429711501,Kamikaze Lust,Lauren Sanders,2000,Akashic Books
+234,11676,0064409457,4.516470137074827,The Silver Chair (full color) (Narnia),C. S. Lewis,2000,HarperTrophy
+235,11676,0964778319,4.515982078056538,An Atmosphere of Eternity: Stories of India,David Iglehart,2002,Sunflower Press
+236,11676,0245542957,4.510663626369873,Pacific Northwest,Hans Johannes Hoefer,1985,Chambers Harrap Publishers Ltd
+237,11676,0451176812,4.507301782555193,Voice of the Eagle,Linda Lay Shuler,1993,Signet Book
+238,11676,0140250964,4.505063443279411,Snow Angels,Stewart O'Nan,1995,Penguin Books
+239,11676,8483007010,4.504232206487946,El gust amarg de la cervesa (CollecciÃ³ ClÃ ssica),Isabel-Clara SimÃ³,1999,Columna
+240,11676,0670815373,4.503542030884184,Urn Burial,Robert Westall,1987,Viking Children's Books
+241,11676,0060083298,4.494692620717755,The Dominant Blonde,Alisa Kwitney,2002,Avon Trade
+242,11676,0517201658,4.493259192461,The Thorn Birds (Modern Classics),Colleen McCullough,1998,Wings
+243,11676,1878424319,4.490974588902456,The Four Agreements: A Practical Guide to Personal Freedom,Don Miguel Ruiz,1997,Amber-Allen Publishing
+244,11676,057120354X,4.488653810810562,Awful End (Eddie Dickens Trilogy S.),Philip Ardagh,2000,Faber Children's Books
+245,11676,0600586898,4.481782758001029,Blur (Melody Maker),Paul Lester,1995,Hal Leonard Corp
+246,11676,8807120194,4.4791759951099985,"Sarajevo, maybe (Anni Novanta/Feltrinelli)",Gianfranco Bettin,1994,Feltrinelli
+247,11676,0373196989,4.469033259370587,"Santa Brought A Son : Marrying The Boss's Daughter (Silhouette Romance, 1698)",Melissa McClone,2003,Silhouette
+248,11676,0743206053,4.467897980453849,Kitchen Privileges : A Memoir,Mary Higgins Clark,2002,Simon &amp; Schuster
+249,11676,038081840X,4.463421064759561,Year's Best Fantasy (Year's Best Fantasy),David G. Hartwell,2001,Eos
+250,11676,3502670005,4.46041247211561,I Ging. Das Buch der Wandlung. Das groÃ?Â?e Weisheits- und Orakelbuch der alten Chinesen.,John. Blofeld,1999,O. W. Barth Bei Scherz
+251,11676,2871290911,4.459620204844162,"XIII, tome 13, L'enquÃ?Âªte : the XIII mystery",Jean Van Hamme,1999,Dargaud
+252,11676,1405200677,4.4593335385078205,Tigger's Little Book of Diet and Exercise,E.H. Shepard,2002,Egmont Childrens Books
+253,11676,0316735736,4.455292609631436,All He Ever Wanted: A Novel,Anita Shreve,2004,Back Bay Books
+254,11676,0689829698,4.449560023769387,Caddie Woodlawn - Newbery Promo '99 (Aladdin Fiction),Carol Ryrie Brink,1999,Aladdin
+255,11676,0399137807,4.4494426911239415,The Cat Who Wasn't There,Lilian Jackson Braun,1992,Putnam Pub Group
+256,11676,1884777805,4.449034997573282,Elements of Programming With Perl,Andrew L. Johnson,1999,Manning Publications
+257,11676,0671021745,4.4467046181813945,EYE ON CRIME: HARDY BOYS #153,Franklin W. Dixon,1998,Aladdin
+258,11676,0385314019,4.444123557000744,Women on the Case,Sara Paretsky,1996,Bantam Dell Pub Group
+259,11676,0966986105,4.442996313760858,Prescription for Terror,Sandra Levy Ceren,1999,Andrew Scott Publishers
+260,11676,0816152446,4.442300858848583,The Women in His Life (G K Hall Large Print Book Series),Barbara Taylor Bradford,1991,Thorndike Pr
+261,11676,0446364762,4.43470815995122,The Stars Shine Down,Sidney Sheldon,1993,Warner Books
+262,11676,0486292940,4.428372505821924,Early Poems (Dover Thrift Editions),William Carlos Williams,1997,Dover Publications
+263,11676,0451409256,4.428115894278355,Making Minty Malone,Isabel Wolff,2000,Onyx Books
+264,11676,2070423204,4.424487998259537,Lieux dits,Michel Tournier,2002,Gallimard
+265,11676,0064470113,4.424264367708413,Taking the Ferry Home,Pam Conrad,1990,Harpercollins Juvenile Books
+266,11676,0816729913,4.423295514001132,Why Are Boys So Weird (Tales from Third Grade),Candice F. Ransom,1993,Troll Communications Llc
+267,11676,1575843366,4.422528580599145,What Shall I Be (Barbie Carryalong),Rita Chapman Works,1999,Reader's Digest
+268,11676,887641486X,4.415381460754089,I Giorni Dell'abbandono,Elena Ferrante,2002,Edizioni E/O
+269,11676,055358099X,4.414768525730318,Cloud Nine,Luanne Rice,2000,Bantam Books
+270,11676,0927545373,4.409701076371745,Unveiled at Last,Bob Sjogren,1988,YWAM Publishing
+271,11676,1854795554,4.4090081557212715,The World's Stupidest Signs,Michael O'Mara,2000,Michael O'Mara Books
+272,11676,0140104682,4.408342080591815,"Heroes of Their Own Lives: The Politics and History of Family Violence, Boston 1880-1960",Linda Gordon,1989,Penguin USA
+273,11676,0385495145,4.408064797305208,The Messenger,JOSEPH GIRZONE,2002,Image
+274,11676,0394895894,4.40561045460935,"The Ruby in the Smoke (Sally Lockhart Trilogy, Book 1)",PHILIP PULLMAN,1988,Laurel Leaf
+275,11676,0375403582,4.404898119330452,Rules of the Wild,Francesca Marciano,1998,Random House Inc
+276,11676,0937858994,4.401395142541585,The What's Happening to My Body? Book for Boys: A Growing Up Guide for Parents and Sons,Lynda Madaras,1987,W W Norton &amp; Co
+277,11676,0062507249,4.3975912472701575,Becoming a Man : Half a Life Story,Paul Monette,1993,HarperSanFrancisco
+278,11676,0812575954,4.392310716411862,The Deal,Joe Hutsko,2000,Tor Books (Mm)
+279,11676,0671847546,4.388425440023738,REAL GUIDE: CALIFORNIA AND THE WEST COAST (The Real guides),LTD,1993,John Wiley &amp; Sons Inc
+280,11676,052594463X,4.3874791643267965,All of Me: A Voluptuous Tale,Venise T. Berry,2000,Dutton Books
+281,11676,0007100221,4.38429849360398,TERROR FIRMA,Matthew Thomas,2001,Trafalgar Square
+282,11676,0553583468,4.383513616437421,"Whisper of Evil (Hooper, Kay. Evil Trilogy.)",Kay Hooper,2002,Bantam Books
+283,11676,0618119760,4.373011713307406,The Saints of Big Harbour: A Novel,Lynn Coady,2002,Houghton Mifflin Company
+284,11676,1841952931,4.372757949006777,Glasgow Zen,Alan Spence,2002,Canongate Books Ltd
+285,11676,0312995431,4.371191213134169,A Fountain Filled With Blood (A Rev. Clare Ferguson Mystery),Julia Spencer-Fleming,2004,St. Martin's Paperbacks
+286,11676,0451523318,4.370987640211848,Turn of the Screw and Short N,Henry James,1978,Signet Book
+287,11676,0345416848,4.370318451577753,Last Sword of Power (Stones of Power),David Gemmell,1997,Del Rey Books
+288,11676,0385335407,4.369611083445872,The Kiss,Danielle Steel,2001,Delacorte Press
+289,11676,0425181111,4.369081897883577,Strangers,Dean R. Koontz,2002,Berkley Publishing Group
+290,11676,0812521331,4.369056165466604,"People of the Wolf (The First North Americans series, Book 1)",W. Michael Gear,1992,Tor Books
+291,11676,0312287240,4.368404665166668,A Year of Full Moons,Madelyn Arnold,2002,Stonewall Inn Editions
+292,11676,0679725393,4.36367619846943,The House of Mirth (Library of America),Edith Wharton,1990,Vintage Books USA
+293,11676,0804001944,4.361599328690286,The Man Who Killed the Deer,Frank Waters,1970,Ohio University Press
+294,11676,0840734530,4.356367853159948,"The Oneprince (The Redaemian Chronicles, Book 1)",Bill Hand,1992,Thomas Nelson Inc
+295,11676,0375406328,4.356287067381162,Lying Awake,Mark Salzman,2000,Alfred A. Knopf
+296,11676,3257210450,4.354175016415481,LÃ?Â¶wenzahnwein. Roman.,Ray Bradbury,1999,Diogenes Verlag
+297,11676,0061080519,4.353773691867809,The Mist and the Magic (Harper Monogram),Susan Wiggs,1993,Harper Mass Market Paperbacks
+298,11676,3257214154,4.353622627254758,Familientreffen. ErzÃ?Â¤hlungen.,Ray Bradbury,2000,Diogenes Verlag
+299,11676,0395877563,4.352365883818611,Seven Moves,Carol Anshaw,1997,Mariner Books
+300,11676,3492207006,4.348633972251396,Die Entdeckung der Langsamkeit.,Sten Nadolny,1987,Piper
+301,11676,0486272745,4.347729875642325,The Prince (Dover Thrift Editions),NiccolÃ² Machiavelli,1992,Dover Publications
+302,11676,0553062042,4.347079289249148,Daybreakers Louis Lamour Collection,Louis Lamour,1981,Bantam Doubleday Dell
+303,11676,3257212429,4.346584959658179,Die Mechanismen der Freude. ErzÃ?Â¤hlungen.,Ray Bradbury,2000,Diogenes Verlag
+304,11676,1563410443,4.346144437076774,"Skin: Talking About Sex, Class &amp; Literature",Dorothy Allison,1994,Firebrand Books
+305,11676,8478800336,4.341349122521162,CÃ³mo ser una mujer y no morir en el intento (ColecciÃ³n El Papagayo),Carmen Rico-Godoy,1990,Ediciones Temas de Hoy
+306,11676,0674511255,4.339370606849254,The Last Best Hope of Earth: Abraham Lincoln and the Promise of America,"Mark E., Jr. Neely",1993,Harvard University Press
+307,11676,0061052523,4.3389613987551625,Interesting Times: A Novel of Discworld,Terry Pratchett,1997,Harpercollins
+308,11676,3499151502,4.3364320180050555,"Hebt den Dachbalken hoch, Zimmerleute / Seymour wird vorgestellt.",Jerome D. Salinger,1998,Rowohlt Tb.
+309,11676,0684868911,4.331737151188952,The Carousel : A Novel,Richard Paul Evans,2000,Simon &amp; Schuster
+310,11676,0393048977,4.330670050644621,Last Blue: Poems,Gerald Stern,2000,W.W. Norton &amp; Company
+311,11676,0375823468,4.329665858013531,"The Subtle Knife (His Dark Materials, Book 2)",PHILIP PULLMAN,2002,Knopf Books for Young Readers
+312,11676,2070384349,4.329420283799019,La Faute de l'abbÃ?Â© Mouret,Emile Zola,1991,Gallimard
+313,11676,0553298860,4.327097680129398,Bloodlines (Dog Lover's Mysteries),Susan Conant,1994,Bantam Books
+314,11676,0684864320,4.326972465252479,LAKE NEWS : A Novel,Barbara Delinsky,1999,Simon &amp; Schuster
+315,11676,0743444167,4.324673133012888,New Cardiff,Charles Webb,2002,Washington Square Press
+316,11676,067153484X,4.323379394905166,The Music Box,Andrea Kane,1998,Pocket
+317,11676,0345418778,4.320737219692204,Mostly Harmless,Douglas Adams,2000,Ballantine Books
+318,11676,0671867156,4.320363796356901,Pretend You Don't See Her,Mary Higgins Clark,1998,Pocket
+319,11676,0743462335,4.320052085649488,More George W. Bushisms: More Verbal Contortions from America's 43rd President,Jacob Weisberg,2002,Simon &amp; Schuster (Trade Division)
+320,11676,0393318435,4.318242221790604,Leaving Pipe Shop: Memories of Kin,Deborah McDowell,1998,W. W. Norton &amp; Company
+321,11676,8474103347,4.317216257204351,Espurnes de sang (La Negra),Antoni Serra,1987,Edicions de la Magrana
+322,11676,0375509038,4.3171179508691075,The Right Man : The Surprise Presidency of George W. Bush,DAVID FRUM,2003,Random House
+323,11676,8466601090,4.307154095268145,Las DOS Muertes De Gardel (Ficcionario),Horacio Vazquez-Rial,2002,Ediciones B
+324,11676,3570300099,4.306936919212794,"Das Intimleben des Adrian Mole, 13 3/4 Jahre. cbt. ( Ab 14 J.).",Sue Townsend,2002,"Bertelsmann, MÃ?Â¼nchen"
+325,11676,0553576925,4.306775019991363,Hiding in the Shadows (Shadows Trilogy (Paperback)),Kay Hooper,2000,Bantam Books
+326,11676,0345413377,4.305458093566472,"The Amber Spyglass (His Dark Materials, Book 3)",PHILIP PULLMAN,2001,Del Rey
+327,11676,0743418190,4.301459218679031,In Her Shoes : A Novel,Jennifer Weiner,2002,Atria Books
+328,11676,039304016X,4.297436159195225,The Perfect Storm: A True Story of Men Against the Sea,Sebastian Junger,1997,Little Brown and Company
+329,11676,225300670X,4.297422772063425,A l'Ouest rien de nouveau,Erich Maria Remarque,1973,LGF
+330,11676,068983571X,4.296451100478331,Hound of the Baskervilles (Aladdin Classics),Sir Arthur Conan Doyle,2000,Aladdin
+331,11676,1570717257,4.294360168504201,Man and Boy,Tony Parsons,2001,Sourcebooks Landmark
+332,11676,8484509141,4.290736463104456,Mientras Escribo,Stephen King,2002,Distribooks
+333,11676,0870441663,4.28966745551953,The wild ponies of Assateague Island (Books for young explorers),Donna K Grosvenor,1975,National Geographic Society
+334,11676,0590431110,4.289290531074842,The Journey Home,Isabelle Holland,1993,Scholastic Paperbacks (Mm)
+335,11676,0451525221,4.286145335960267,Scarlet Letter,Nathaniel Hawthorne,1993,Signet Book
+336,11676,0671864769,4.282768538135736,Relics (Star Trek: The Next Generation),Michael Jan Friedman,1992,Star Trek
+337,11676,0440222303,4.282683701334343,"The Touch of Your Shadow, the Whisper of Your Name (Babylon 5, Book 5)",Neal Barrett Jr.,1996,Dell
+338,11676,1567184294,4.28201271588456,"The Western Mysteries: An Encyclopedic Guide to the Sacred Languages &amp; Magickal Systems of the World : The Key of It All, Book II (Key of It All)",David Allen Hulse,2000,Llewellyn Publications
+339,11676,8423324311,4.278916449779809,Gastronomia divina (L'Ã¡ncora),Eugeni Perea SimÃ³n,1994,Destino
+340,11676,0812575482,4.277697104988904,Through Wolf's Eyes (Wolf),Jane Lindskold,2002,Tor Fantasy
+341,11676,1558746218,4.2761282632124535,A Second Chicken Soup for the Woman's Soul (Chicken Soup for the Soul Series),Jack Canfield,1998,Health Communications
+342,11676,0440441501,4.2733628183169445,In the Dinosaur's Paw (Kids of the Polk Street School),PATRICIA REILLY GIFF,1987,Yearling
+343,11676,080901582X,4.273280369086887,The Return of Simple,Langston Hughes,1995,Hill &amp; Wang
+344,11676,0060168013,4.264014958792771,Pigs in Heaven,Barbara Kingsolver,1993,Harpercollins
+345,11676,0743458303,4.26082462725531,Wednesday the Rabbi Got Wet,Harry Kemelman,2003,I Books
+346,11676,0897322339,4.259990010257637,"The Best in Tent Camping: Smoky Mountains : A Guide for Campers Who Hate Rvs, Concrete Slabs, and Loud Portable Stereos (Best in Tent Camping Colorado)",Johnny Molloy,1997,Globe Pequot Pr
+347,11676,0060930365,4.255697818694283,"My First Cousin Once Removed: Money, Madness, and the Family of Robert Lowell",Sarah Payne Stuart,1999,Perennial
+348,11676,0689821166,4.253706867655557,Flood : Mississippi 1927,Kathleen Duey,1998,Aladdin
+349,11676,084994371X,4.249421716479342,Blink,Ted Dekker,2003,WestBow Press
+350,11676,1886383421,4.2475029888583045,Fires of Aggar,Chris Anne Wolfe,2001,Windstorm Creative
+351,11676,0684822733,4.244972624198328,"Love, Miracles, and Animal Healing : A heartwarming look at the spiritual bond between animals and humans",Pam Proctor,1996,Fireside
+352,11676,0887841740,4.2418118512656084,The Middle Stories,Sheila Heti,2004,House of Anansi Press
+353,11676,0425164403,4.240549202799341,Only Love (Magical Love),Erich Segal,1998,Berkley Publishing Group
+354,11676,0553582909,4.240066408644665,Icebound,Dean R. Koontz,2000,Bantam Books
+355,11676,8486433193,4.239135107432222,Amorrada al pilÃ³ (Columna),Maria JaÃ©n,1986,Columna
+356,11676,0749748001,4.238456611400618,The Enchanted Wood,Enid Blyton,2002,Egmont Childrens Books
+357,11676,0380792664,4.2357343117208295,The Right Hand of Amon,Lauren Haney,1997,Avon
+358,11676,0812523873,4.234262182721398,Proxies,Laura J. Mixon,1999,Tor Books
+359,11676,0871138646,4.233842998217068,Old Flames,John Lawton,2003,Atlantic Monthly Press
+360,11676,2070334368,4.229848881428521,La Guerre Des Boutons,Pergaud,0,Livre de Poche
+361,11676,0425098109,4.227141833955618,Thieves of Light (Photon : the Ultimate Game on Planet Earth),Michael Hudson,1987,Berkley Publishing Group
+362,11676,0800706544,4.224390799545514,Though I walk through the valley,Vance Havner,1974,F. H. Revell
+363,11676,0486272664,4.221466339055211,The Rime of the Ancient Mariner and Other Poems,Samuel Taylor Coleridge,1992,Dover Publications
+364,11676,0801096677,4.217686168097816,Victorious Christians You Should Know,Warren W. Wiersbe,1984,Baker Book House
+365,11676,0060925000,4.215031433984182,"A Suitable Boy : Novel, A",Vikram Seth,1994,Perennial
+366,11676,0345379454,4.212635269043096,Missing Susan,SHARYN MCCRUMB,1992,Ballantine Books
+367,11676,0061076031,4.212263314111699,Mary-Kate &amp; Ashley Switching Goals (Mary-Kate and Ashley Starring in),Mary-Kate &amp; Ashley Olsen,2000,HarperEntertainment
+368,11676,0345371984,4.212225643482416,Last Chance to See,Douglas Adams,1992,Ballantine Books
+369,11676,037582345X,4.210187832966309,"The Golden Compass (His Dark Materials, Book 1)",PHILIP PULLMAN,2002,Knopf Books for Young Readers
+370,11676,0380820447,4.206327885617336,"For Better, for Worse: A Novel",Carole Matthews,2002,Avon Trade
+371,11676,0679767789,4.2033583439126065,Lost in Place: Growing Up Absurd in Suburbia,Mark Salzman,1996,Vintage Books USA
+372,11676,8845229041,4.201133902139881,Biblioteca Universale Rizzoli: Sulla Sponda Del Fiume Piedra,P Coelho,0,Fabbri - RCS Libri
+373,11676,0061000280,4.199934145436315,The Fly on the Wall,Tony Hillerman,1990,HarperTorch
+374,11676,0671504282,4.197247069337039,"LAW OF THE JUNGLE (HARDY BOYS CASE FILE 105) : LAW OF THE JUNGLE (Hardy Boys, The)",Franklin W. Dixon,1995,Simon Pulse
+375,11676,0060973129,4.195543071730056,Decision in Normandy,Carlo D'Este,1991,HarperPerennial
+376,11676,1575024179,4.194911104098596,The Day I Almost Quit,Frederick J. Moody,1997,F.J. Moody
+377,11676,0449245691,4.193588505449386,The Book of Lights,Chaim Potok,1997,Fawcett Books
+378,11676,0877192820,4.190912832173887,The Truth About Texas: Who Needs to Brag? We'Ve Got the Facts,Anne Dingus,1995,Gulf Publishing Company
+379,11676,0941423042,4.1905266910837495,American Poetry Since 1970: Up Late,Andrei Codrescu,1988,Four Walls Eight Windows
+380,11676,8476409419,4.190500337134336,Estudios sobre el amor,Jose Ortega Y Gaset,2001,Downtown Book Center
+381,11676,0307001164,4.190264461608654,101 Dalmatians,Justine Korman,1996,Golden Books Publishing Company
+382,11676,0380711109,4.187934737877052,Desert Notes/River Notes,Barry Lopez,1990,Quill (HarperCollins)
+383,11676,0671521519,4.186691245881772,Bless The Beasts And Children : Bless The Beasts And Children,Glendon Swarthout,1995,Pocket
+384,11676,0439221706,4.185122892877678,Avalon: Web Of Magic #5: Spellsinger,Rachel Roberts,2002,Scholastic Paperbacks
+385,11676,0140345809,4.184336245981584,House of Stairs,William Sleator,1991,Puffin Books
+386,11676,0375823352,4.183066529264645,"The Amber Spyglass (His Dark Materials, Book 3)",PHILIP PULLMAN,2002,Knopf Books for Young Readers
+387,11676,0812521129,4.180437389192346,Children of the Night,Mercedes Lackey,1990,Tor Books
+388,11676,0340767936,4.180387778821213,Turning Thirty,Mike Gayle,2000,Hodder &amp; Stoughton General Division
+389,11676,3499177757,4.178558397233715,Die Grenzen des Geschlechts: Anleitungen zum Sturz des internationalen Patriarchats : Amnesty for Women (Rororo Sachbuch),Cheryl Benard,1984,Rowohlt
+390,11676,0940322978,4.171980315676958,Mawrdew Czgowchwz (New York Review Books Classics),James McCourt,2002,New York Review of Books
+391,11676,0375414746,4.171804085535032,The Clearing,TIM GAUTREAUX,2003,Knopf
+392,11676,3257208669,4.17126652303526,Das BÃ?Â¶se kommt auf leisen Sohlen.,Ray Bradbury,2003,Diogenes
+393,11676,0060199563,4.169057943610019,Thief of Time,Terry Pratchett,2001,HarperCollins Publishers
+394,11676,1592571301,4.168954522071465,Alpha Teach Yourself American Sign Language in 24 Hours (Alpha Teach Yourself in 24 Hours),Trudy Suggs,2003,Alpha Books
+395,11676,0553562819,4.168736949438396,Globalhead,Bruce Sterling,1994,Spectra Books
+396,11676,0671047612,4.16666782799393,Skin And Bones,Franklin W. Dixon,2000,Aladdin
+397,11676,0449002632,4.165006853652194,London : The Novel,EDWARD RUTHERFURD,1998,Fawcett
+398,11676,067976397X,4.164592670632953,Corelli's Mandolin : A Novel,LOUIS DE BERNIERES,1995,Vintage
+399,11676,0793133955,4.163255109450628,Wall Street's Picks for 2000: An Insider's Guide to the Year's Best Stocks &amp; Mutual Funds (Wall Street's Picks),Kirk Kazanjian,1999,Dearborn Financial Publishing
+400,11676,8429736131,4.160082509885192,La dona dels ulls de pluja: Barcelona anys 90 (El BalancÃ­),VÃ­ctor Mora,1993,Edicions 62
+401,11676,038076654X,4.15984670851635,Petals on the River,Kathleen E. Woodiwiss,1997,Avon Trade
+402,11676,0393045218,4.15970834751829,The Mummies of Urumchi,E. J. W. Barber,1999,W. W. Norton &amp; Company
+403,11676,0915811537,4.159584426638077,Son Rise: The Miracle Continues,Barry Neil Kaufman,1994,Pub Group West
+404,11676,0451625889,4.153953224206272,The Prince,Niccolo Machiavelli,1952,Signet Book
+405,11676,0061052515,4.152815616293211,"Maskerade: A Novel of Discworld (Pratchett, Terry. Discworld Series (New York, N.Y.).)",Terry Pratchett,1997,HarperPrism
+406,11676,039456894X,4.152707626713656,Impossible Vacation,Spalding Gray,1992,Random House Inc
+407,11676,0345374657,4.150541436355312,Diet for a Poisoned Planet: How to Choose Safe Foods for You and Your Family,David Steinman,1992,Ballantine Books
+408,11676,0452279690,4.147757210000572,Cavedweller,Dorothy Allison,1999,Plume Books
+409,11676,3257201761,4.1453774821570235,Die zwei Gesichter des Januars.,Patricia Highsmith,1974,Diogenes Verlag
+410,11676,0425163091,4.144430686001161,Chocolate Jesus,Stephan Jaramillo,1998,Berkley Publishing Group
+411,11676,8420639133,4.14362308370521,Temor y Temblor,Soren Kierkegaard,2001,Alianza
+412,11676,0872200760,4.135935269045747,Symposium,Paul Woodruff,1989,Hackett Pub Co Inc
+413,11676,0375410538,4.135338101044631,Anil's Ghost,MICHAEL ONDAATJE,2000,Knopf
+414,11676,0740700235,4.1349425235371156,Life Messages: Inspiration For The Woman's Spirit,Josephine Carlton,2002,Andrews McMeel Publishing
+415,11676,0345435869,4.133133736931857,The Rivan Codex : Ancient Texts of THE BELGARIAD and THE MALLOREON,DAVID EDDINGS,1999,Del Rey
+416,11676,8440616252,4.132250102600643,El paraÃ­so (Tiempos modernos),Elena Castedo,1991,"Editiones B, Grupo Zeta"
+417,11676,0312988699,4.130804696524973,Nowhere To Run,Mary Jane Clark,2004,St. Martin's Paperbacks
+418,11676,0801491827,4.128701355339819,"Feminism and Suffrage: The Emergence of an Independent Women's Movement in America, 1848-1869",Ellen Carol Dubois,1980,Cornell University Press
+419,11676,0380002450,4.1245223653098355,Awakening,Kate Chopin,1982,Avon
+420,11676,074322678X,4.123507893938664,Where You'll Find Me: And Other Stories,Ann Beattie,2002,Scribner
+421,11676,0905762487,4.119836848229995,African Women: Their Struggle for Economic Independence,Christine Obbo,1980,Palgrave-Macmillan
+422,11676,3746670055,4.119159950557461,"Women are the Niggers of the World: Ã¼ber Frauen, Herrenmenschen und Nietzsches Peitsche (AtV Dokument und Essay)",Peter B Heim,1994,Aufbau Taschenbuch Verlag
+423,11676,1573225487,4.118943537335978,The Romance Reader,Pearl Abraham,1996,Riverhead Books
+424,11676,0439221730,4.10894607342901,Trial by Fire,Rachel Roberts,2002,Scholastic Paperbacks
+425,11676,0884111342,4.106512286915919,Lady of the Shroud,Bram Stoker,1989,Amereon Limited
+426,11676,3889774016,4.10615246372422,Frauen der Welt: Vom Fortschritt der Ungleichheit,Christa Wichterich,1995,Lamuv
+427,11676,1573225126,4.105859458593777,Prozac Nation: Young and Depressed in America : A Memoir,Elizabeth Wurtzel,1997,Riverhead Books
+428,11676,0375814248,4.1040728840041725,James and the Giant Peach,ROALD DAHL,2002,Knopf Books for Young Readers
+429,11676,0849916399,4.101191375312399,The Internet Church,Walter P. Wilson,2000,W Publishing Group
+430,11676,0812923278,4.09760112755846,The Great Depression : America 1929-1941,ROBERT S. MCELVAINE,1993,Three Rivers Press
+431,11676,0749748028,4.097356292235908,The Folk of the Faraway Tree,Enid Blyton,2002,Egmont Childrens Books
+432,11676,0140620427,4.094170465805962,Sense and Sensibility (Penguin Popular Classics),Jane Austen,1994,Penguin Books Ltd
+433,11676,0394559487,4.094088709057956,Citizens: A Chronicle of the French Revolution,Simon Schama,1989,Random House Inc
+434,11676,0380715899,4.091431154993727,A Soldier of the Great War,Mark Helprin,1992,Avon Books
+435,11676,0140382658,4.088892644847509,You Can Surf the Net: Your Guide to the World of the Internet,Marc Gascoigne,1996,Puffin Books
+436,11676,0385337132,4.086221166053587,The 37th Hour,JODI COMPTON,2003,Delacorte Press
+437,11676,0836230868,4.082512711044622,Christmas : A Holiday Treasury,Della Rowland,1994,Andrews McMeel Publishing
+438,11676,0451410319,4.081335257124056,Hush,Anne Frasier,2002,Onyx Books
+439,11676,0312965745,4.080968757897442,Secrets of St. John's Wort: A Lynn Sonberg Book,Larry Katzenstein,1998,St. Martin's Press
+440,11676,0330484516,4.080897136788517,Twenty Minute Retreats: Revive Your Spirits in Just Minutes a Day (A Pan Self-discovery Title),Rachel Harris,2001,Pan Macmillan
+441,11676,0192815318,4.075951710171671,Cranford (The World's Classics),Elizabeth Gaskell,1982,Oxford University Press
+442,11676,0590947257,4.0736512135017895,Forever Amber Brown (Amber Brown (Paperback)),Paula Danziger,1997,Jump at the Sun
+443,11676,0898151910,4.071904150201086,"How to Make $1,000 a Minute: Negotiating Salaries and Raises",Jack Chapman,1987,Ten Speed Pr
+444,11676,0590514776,4.068905077126047,Meet the Stars of Buffy the Vampire Slayer,Stefanie Scott,1998,Scholastic
+445,11676,0785263292,4.063770090192115,"If Singleness Is a Gift, What's the Return Policy?",Holly Virden,2003,Nelson Books
+446,11676,0061096091,4.061029303984108,Eyeshot,Lynn S. Hightower,1997,Harper Mass Market Paperbacks (Mm)
+447,11676,3462021095,4.054399161180369,Schwarzer Tee mit drei StÃ¼ck Zucker,Renan Demirkan,1991,Kiepenheuer &amp; Witsch
+448,11676,1575663937,4.0542544717882745,More Cunning Than Man: A Social History of Rats and Man,Robert Hendrickson,1999,Kensington Publishing Corp.
+449,11676,0385327773,4.053578816954347,The Great God Pan,Donna Jo Napoli,2003,Wendy Lamb Books
+450,11676,0842336214,4.051573311111521,The Promise Remains,Travis Thrasher,2000,Tyndale House Publishers
+451,11676,0415928087,4.044268865116199,A New Germany in a New Europe,Todd Herzog,2000,Routledge
+452,11676,039457513X,4.0437841336631415,Billy Bathgate,E. L. Doctorow,1989,Random House
+453,11676,3442446937,4.042112912135369,Tage der Unschuld.,Richard North Patterson,2000,Goldmann
+454,11676,1562477528,4.038479379792439,Going for Great (Ag Fiction (American Girl)),Carolee Brockmann,1999,Pleasant Company Publications
+455,11676,0866119531,4.034785561064886,Black Beauty (Great Illustrated Classics (Playmore)),Anna Sewell,2000,Playmore Inc. Publishers
+456,11676,3423116714,4.034545914848532,Die Klone der Joanna May. Roman.,Fay Weldon,1993,Dtv
+457,11676,8401351421,4.032053435100096,El desarrollo de Leonardo da Vinci (BiografÃ­as y memorias),Luis Racionero,1986,Plaza &amp; JanÃ©s
+458,11676,0811203220,4.0309894141354485,Stand Still Like the Hummingbird,Henry Miller,1962,New Directions Publishing Corporation
+459,11676,074345829X,4.027747412550914,Philip Jose Farmer's The Dungeon,Richard A. Lupoff,2003,I Books
+460,11676,0345311396,4.024972510556735,Private Screening,Richard North Patterson,1994,Ballantine Books
+461,11676,0553280333,4.022520824116527,Getting Well Again,O. Carol Simonton Md,1992,Bantam
+462,11676,3499222604,4.019182305589198,Die globalisierte Frau: Berichte aus der Zukunft der Ungleichheit (Frauen aktuell),Christa Wichterich,1998,Rowohlt
+463,11676,3518111000,4.018979429486079,"Ulysses (Ã?Â?bersetzg. WollschlÃ?Â¤ger). ( Neue Folge, 100).",James Joyce,1981,Suhrkamp
+464,11676,0195153448,4.01891103028408,Classical Mythology,Mark P. O. Morford,2002,Oxford University Press
+465,11676,0060621257,4.015741501647152,Living in the Presence: Disciplines for the Spiritual Heart,Tilden H. Edwards,1988,Harpercollins
+466,11676,0061050474,4.015535601416604,Jingo: A Discworld Novel (Discworld Series/Terry Pratchett),Terry Pratchett,1998,HarperPrism
+467,11676,0679423079,4.0152334430359895,Nicholas Nickleby (Everyman's Library),Charles Dickens,1993,Alfred A. Knopf
+468,11676,0451527747,4.013054460274697,Alice's Adventures in Wonderland and Through the Looking Glass,Lewis Carroll,2000,Signet Classics
+469,11676,3423241489,4.011184839271733,Ist mein Hintern wirklich so dick? Tagebuch einer empfindsamen Frau.,Arabella Weir,1998,Dtv
+470,11676,0373250339,4.0067764249098206,A Minor Indiscretion (Red Dress Ink (Paperback)),Carol Matthews,2003,Red Dress Ink
+471,11676,2264009306,4.004281362782531,CantilÃ¨nes en gelÃ©e ; Barnum's digest ; Vingt poÃ¨mes inÃ©dits (10/18 [i.e. Dix/dix-huit] ; 517),Boris Vian,1978,Union gÃ©nÃ©rale d'Ã©ditions
+472,11676,0345313097,4.004148297488122,Crewel Lye,Piers Anthony,1985,Ballantine Books
+473,11676,0446325805,4.003545991271361,"If Love Were Oil, I'd Be About a Quart Low",Lewis Grizzard,1994,Warner Books (Mm)
+474,11676,0553564528,4.003186068056798,Guilty as Sin,TAMI HOAG,1997,Bantam
+475,11676,0439221714,4.002691112268186,"The Secret of the Unicorn (Avalon Web of Magic, 4)",Rachel Roberts,2000,Scholastic Paperbacks
+476,11676,0394178017,4.0007107849043955,Poetics of the New American Poetry,Donald Merriam Allen,1974,Grove Press
+477,11676,8477830029,3.9966125012367133,TrÃ nsit (Area contemporÃ nia),Jaume CapÃ³,1987,Area
+478,11676,0835949362,3.99380641021025,Non-manipulative selling,Anthony J Alessandra,1981,Reston Pub. Co
+479,11676,0449207595,3.9876303810401996,The Grass Is Always Greener over the Septic Tank,Erma Bombeck,1988,Fawcett Books
+480,11676,0440223571,3.9873446319862396,This Year It Will Be Different: And Other Stories,Maeve Binchy,1997,Dell
+481,11676,0439569842,3.986003014343055,How Do Dinosaurs Learn to Read,Jane Yolen,2003,"Scholastic, Inc."
+482,11676,1928791107,3.983015287706995,The Mp3 and Internet Audio Handbook: Your Guide to the Digital Music Revolution,Bruce Fries,2000,Teamcom Books
+483,11676,0819215635,3.981008746759407,Listening Hearts: Discerning Call in Community,Suzanne G. Farnham,1991,Morehouse Group
+484,11676,0821750410,3.979840913668203,Warrior Moon,Sara Orwig,1995,Zebra Books
+485,11676,1561011525,3.979553270366009,"The Practice of Prayer (New Church's Teaching Series, Vol 4)",Margaret Guenther,1998,Cowley Publications
+486,11676,038549825X,3.979469755967741,Not a Day Goes By : A Novel,E. LYNN HARRIS,2001,Anchor
+487,11676,044661162X,3.972999141002279,Chasing the Dime,Michael Connelly,2003,Warner Books
+488,11676,0590418858,3.9721721837322823,You Be the Jury #02,Marvin Miller,1989,Scholastic
+489,11676,8429734996,3.970634909929306,Hotel Europa (El BalancÃ­),VicenÃ§ Villatoro,1992,Edicions 62
+490,11676,0866119566,3.9696215123409337,Oliver Twist (Great Illustrated Classics),Charles Dickens,1989,Playmore Inc. Publishers
+491,11676,0440949424,3.954057211569988,Locked in Time (Laurel Leaf Books),LOIS DUNCAN,1986,Laure Leaf
+492,11676,0590598848,3.946080871113951,"Demona's Revenge (Gargoyles, No. 2)",Francine Hughes,1995,Scholastic
+493,11676,0380973545,3.9451678484027815,Letters from a Nut,Ted L. Nancy,1999,William Morrow
+494,11676,0060930705,3.944048033795349,Someone to Watch Over Me : Stories,Richard Bausch,2000,Perennial
+495,11676,0451205197,3.943788262668749,Lady in Green/Minor Indiscretions (Signet Regency Romance),Barbara Metzger,2002,Signet Book
+496,11676,030720152X,3.943752690650932,Comic Characters,Craig Boldman,1983,Golden Books
+497,11676,0446610178,3.93908882469661,The Sky Is Falling,Sidney Sheldon,2001,Warner Books
+498,11676,076218857X,3.936862609771073,The Doorbell Rang (The Best Mysteries of All Time),Rex Stout,2000,Readers Digest Assn
+499,11676,0865050880,3.934734082814245,I Like School (in My World Series),Bobbie Kalman,1985,Crabtree Publishing Company
+500,11676,0195086295,3.933964609605317,What a Wonderful World: A Lifetime of Recordings,Bob Thiele,1995,Oxford University Press
+501,11676,0061064505,3.932495280893078,"Blowtorch Psycho.Com (Bone Chillers, No 18)",Sherry Shahan,1997,Harpercollins Juvenile Books
+502,11676,051762639X,3.9322370415965873,Barchester Towers (Oxford Pocket Classics),Anthony Trollope,1986,Random House Value Publishing
+503,11676,0803251718,3.930966081858002,Crazy Horse,Mari Sandoz,1961,University of Nebraska Press
+504,11676,0679450432,3.928049566195531,Dark Lady,Richard North Patterson,1999,Alfred A. Knopf
+505,11676,0380617625,3.926894106701069,The Kingdom: Arabia and the House of Sa'Ud,Robert Lacey,1983,Harper Mass Market Paperbacks (Mm)
+506,11676,0380754509,3.9251987581187584,The Case of the Lost Look-Alike (An Avon Camelot Book),Carol J. Farley,1988,Avon Books
+507,11676,0375801677,3.92240101353651,The Iron Giant,Ted Hughes,1999,Knopf Books for Young Readers
+508,11676,0684854953,3.9197235156730112,Santa Pete : A Novel Of Christmas Present And Past,Christopher Moore,1998,Simon &amp; Schuster
+509,11676,0812523385,3.916417039134172,Selected Poems of Emily Dickinson,Emily Dickinson,1995,Tor Books
+510,11676,0061030147,3.910675015509948,"Cybill Disobedience: How I Survived Beauty Pageants, Elvis, Sex, Bruce Willis, Lies, Marriage, Motherhood, Hollywood, and the Irrepressible Urge to Say What I Think",Cybill Shepherd,2001,Avon Books
+511,11676,0380728729,3.9044278489949242,Babyhood,Paul Reiser,1998,Avon
+512,11676,0380978539,3.903930206924252,"Dear Stranger, Dearest Friend",Laney Katz Becker,2000,William Morrow &amp; Company
+513,11676,0445402040,3.9033024741023468,The Hunted,Elmore Leonard,1986,Warner Books (Mm)
+514,11676,0590870157,3.9023132330077765,My Garden (Beginning Literacy),Jesse S. Ostrow,1994,Scholastic
+515,11676,0553579681,3.8965786898893704,Night Mares,Manda Scott,1999,Crimeline
+516,11676,0812519655,3.8952007089343255,Sacred Ground,Mercedes Lackey,1995,Tor Books
+517,11676,1842040154,3.8923589583814,Celtic Myths and Legends,Charles L. Squire,2000,Lomond Books
+518,11676,0830714014,3.8855133566396582,Always Daddy's Girl: Understanding Your Father's Impact on Who You Are,H. Norman Wright,1989,Regal Books
+519,11676,8478091246,3.885010677243652,L'home del sac,MÃ rius Serra,1990,Columna
+520,11676,0785815147,3.8846365887514605,Simple Wicca (Simple Wisdom Book),Michele Morgan,2002,Castle Books
+521,11676,0394586239,3.882712864346182,Possession: A Romance,A. S. Byatt,1990,Random House Inc
+522,11676,0449202631,3.8821499400450183,Danger,Dick Francis,1985,Fawcett Books
+523,11676,8472224260,3.880523972565433,Negra i consentida (ColÂ¨lecciÃ³ El Mirall),OfÃ¨lia Dracs,1983,Laia
+524,11676,0891091963,3.87816055021869,Inside out,Lawrence J Crabb,1988,NavPress
+525,11676,0152012966,3.876899951838605,I Want to Be...a Veterinarian (I Want to Be... Series),Stephanie Maze,1997,Harcourt
+526,11676,0521427150,3.873333232735131,"Belonging in the Two Berlins : Kin, State, Nation (Cambridge Studies in Social and Cultural Anthropology)",John Borneman,1992,Cambridge University Press
+527,11676,0373484100,3.8723147786236556,Night Tales,Nora Roberts,2000,Silhouette
+528,11676,0446602086,3.8711879750217078,The Proud and the Free,Janet Dailey,1995,Warner Vision
+529,11676,0140622063,3.8666727857318466,Scottish Folk and Fairy Tales (Penguin Popular Classics),Gordon Jarvie,1997,Penguin Books Ltd
+530,11676,0807565288,3.862009387263936,"The Pet Shop Mystery (Boxcar Children Special (Paper), No 7)",Gertrude Chandler Warner,1996,Albert Whitman &amp; Company
+531,11676,1879384493,3.859831902647027,If I'd Known Then What I Know Now: Why Not Learn from the Mistakes of Others? : You Can't Afford to Make Them All Yourself,J. R. Parrish,2003,Cypress House
+532,11676,0380754851,3.8575841591213234,Moonlighting: 148 Great Ways to Make Money on the Side,Carl Hausman,1991,Harpercollins
+533,11676,0590897985,3.854906762164614,The Music of Dolphins (Apple Signature Edition),Karen Hesse,1998,Hyperion Books for Children
+534,11676,1853260673,3.8531977882604975,Far from the Madding Crowd (Wordsworth Classics),Thomas Hardy,1997,NTC/Contemporary Publishing Company
+535,11676,0345451260,3.850373811883703,Househusband,AD HUDLER,2002,Ballantine Books
+536,11676,0373245580,3.849514592866512,"Marry Me ... Again   Montana Mavericks (Silhouette Special Edition, 1558)",Cheryl St. John,2003,Silhouette
+537,11676,3596292646,3.8461375240081725,Das Buch der lÃ?Â¤cherlichen Liebe.,Milan Kundera,2000,"Fischer (Tb.), Frankfurt"
+538,11676,0671649949,3.8439036251561394,OBJECT AFFECTION,Stephen McCauley,1988,Washington Square Press
+539,11676,0803233019,3.843415856549445,Black Elk Speaks: Being the Life Story of a Holy Man of the Oglala Sioux,John G. Neihardt,1988,University of Nebraska Press
+540,11676,0823032612,3.839348131763033,Oil Painting Techniques (Artist's Painting Library),David Lewis,1983,Watson-Guptill Publications
+541,11676,8478097732,3.8378288288733247,GrÃ cies per la propina (Columna),Ferran Torrent,1995,Columna
+542,11676,0312148267,3.8368135556361644,The Wind in the Willows,Kenneth Grahame,1996,St. Martin's Press
+543,11676,0375501347,3.8351217353714984,Amy and Isabelle,Elizabeth Strout,1999,Random House Inc
+544,11676,061312975X,3.8344981323260074,This Present Darkness,Frank E. Peretti,1999,Sagebrush Bound
+545,11676,0062517856,3.8315413174330364,The Monk Downstairs: A Novel,Tim Farrington,2002,HarperSanFrancisco
+546,11676,067175145X,3.8311246870532445,The Way Things Ought to Be,"Rush H., III Limbaugh",1992,Pocket Books
+547,11676,0345370740,3.82607331075239,The Scions of Shannara (Heritage of Shannara (Paperback)),Terry Brooks,1993,Del Rey Books
+548,11676,3150000335,3.8250985012824392,Kabale Und Liebe,Schiller,0,"Philipp Reclam, Jun Verlag GmbH"
+549,11676,0307215342,3.8247570289260713,Trixie Belden and the Mystery Off Glen Road (Mystery Off Glen Road),Julie Campbell,1977,Random House Childrens Books
+550,11676,0385479689,3.8246572400206786,Dead Men Do Tell Tales: The Strange and Fascinating Cases of a Forensic Anthropologist,William Maples,1995,Main Street Books
+551,11676,0553101439,3.8245757056063066,West of Dodge: Frontier Stories,Louis L'Amour,1996,Bantam
+552,11676,229000510X,3.8244485403795045,Une porte sur l'Ã?Â©tÃ?Â©,Robert A. Heinlein,1999,J'ai lu
+553,11676,0684180200,3.8235690686394124,NEW SHOE,Arthur William Upfield,1983,Scribner Paper Fiction
+554,11676,0671673688,3.8213419303676224,While My Pretty One Sleeps,Mary Higgins Clark,1990,Pocket
+555,11676,8472238822,3.811986603592576,Tu Nombre Escrito En El Agua (La Sonrisa Vertical),Irene Gonzalez Frei,2002,Tusquets
+556,11676,1555834531,3.80258474937728,Hood,Emma Donoghue,1998,Alyson Publications
+557,11676,0963094424,3.8002732578892218,Angels and Visitations: A Miscellany,Neil Gaiman,1993,Dreamhaven Books
+558,11676,0312143370,3.8001088079703895,The Florence King Reader,Florence King,1996,St. Martin's Press
+559,11676,0892967994,3.7879917999039225,The Fractal Murders (Pepper Keane Mysteries),Mark Cohen,2004,Mysterious Press
+560,11676,0947782141,3.7835670435122637,Scottish Ghosts,Judy Hamilton,1999,Lomond Books
+561,11676,0679425608,3.781546012180497,Under the Black Flag: The Romance and the Reality of Life Among the Pirates,David Cordingly,1996,Random House
+562,11676,0786015276,3.781477176212345,11th Hour,Bradley Warshauer,2003,Pinnacle Books
+563,11676,0446523992,3.7812340381792904,"A Call to Conscience : The Landmark Speeches of Dr. Martin Luther King, Jr.",Kris Shepard,2001,Warner Books
+564,11676,1903019699,3.7790902387322047,The Soulbane Stratagem,Norman Jetmundsen,2000,"John Hunt Publishing, Ltd."
+565,11676,0449911683,3.7783395515243856,My Name Is Asher Lev,Chaim Potok,1996,Ballantine Books
+566,11676,0515118656,3.7759721500462784,The Cove,Catherine Coulter,1996,Jove Books
+567,11676,0020199090,3.7714985587627488,Joshua In the Holy Land,Joseph Girzone,1993,Simon Schuster Trade
+568,11676,0312977905,3.7709974832549826,To Catch a Cat,Marian Babson,2002,St. Martin's Minotaur
+569,11676,0679733825,3.769434866595007,Sisters of the Earth: Women's Prose and Poetry About Nature,Lorraine Anderson,1991,Vintage Books USA
+570,11676,0961769947,3.7693039690344645,Northwest Wines and Wineries,Chuck Hill,1993,Speed Graphics
+571,11676,3442098424,3.762350879084863,Der FÃ?Â¼rst der Finsternis. Roman.,Anne Rice,1992,Goldmann
+572,11676,0688163726,3.7535283985766337,The Watch House,Robert Westall,1998,HarperTrophy
+573,11676,0553285343,3.753089858472461,"RUSSIA HOUSE, THE",JOHN LE CARRE,1990,Bantam
+574,11676,0375500766,3.75220120233762,Care Packages : Letters to Christopher Reeve from Strangers and Other Friends,DANA REEVE,1999,Random House
+575,11676,0520011171,3.7499213758151644,Sappho: A New Translation,Mary Barnard,1958,University of California Press
+576,11676,0684177730,3.7468135791809747,The SKULL BENEATH THE SKIN,P. D. James,1982,Scribner
+577,11676,0345425294,3.743564259410872,Gangster,Lorenzo Carcaterra,2002,Fawcett Books
+578,11676,0312206763,3.7425262513304514,Stately Pursuits,Katie Fforde,1999,Griffin Trade Paperback
+579,11676,0679751343,3.742333105146458,Angels &amp; Insects : Two Novellas,A.S. BYATT,1994,Vintage
+580,11676,0312970242,3.7409339059014304,The Angel Is Near,Deepak Chopra,2000,St. Martin's Press
+581,11676,0816728739,3.739581856112551,The Time Machine (Troll Illustrated Classics),H. G. Wells,1992,Troll Communications Llc
+582,11676,0880011025,3.7358736119886653,Unattainable Earth,Czeslaw Milosz,1987,Ecco Press
+583,11676,0679810307,3.734795715687531,Shabanu: Daughter of the Wind (Border Trilogy),SUZANNE FISHER STAPLES,1991,Laurel Leaf
+584,11676,0671525794,3.730326369053141,The Kingdom by the Sea: A Journey Around Great Britain,Paul Theroux,1984,Pocket Books
+585,11676,080652121X,3.7289968878329263,Hitler's Secret Bankers: The Myth of Swiss Neutrality During the Holocaust,Adam Lebor,2000,Citadel Press
+586,11676,0312872682,3.7284271248120007,The James Dean Affair: A Neil Gulliver &amp; Stevie Marriner Novel,Robert S. Levinson,2000,St Martins Pr
+587,11676,1860198597,3.724142000727161,How to Draw Celtic Knotwork: A Practical Handbook,Andy Sloss,0,Brockhampton Press
+588,11676,1842151053,3.7221602959945987,Cooking for One (Cook's Essentials),Valerie Ferguson,2000,Southwater Publishing
+589,11676,0553574175,3.7145381523978576,Star Wars the Rebel Dawn: The Han Solo Trilogy (Star Wars: Han Solo Trilogy (Paperback)),A.C. Crispin,1998,Spectra Books
+590,11676,0671694049,3.714511698596753,LONG DARK TEA TIME OF THE SOUL,Douglas Adams,1990,Pocket
+591,11676,0684823802,3.7134181418620553,OUT OF THE SILENT PLANET,C.S. Lewis,1996,Scribner
+592,11676,0965404560,3.710395720764204,Atonement,Ian McEwan,2002,Nan A. Talese
+593,11676,081296666X,3.7075169881377836,Things My Girlfriend and I Have Argued About: A Novel,Mil Millington,2003,Villard Books
+594,11676,0316973742,3.69994121974219,The Gospel of Judas: A Novel,Simon Mawer,2002,Back Bay Books
+595,11676,0394578791,3.6882183717843784,A Reporter's Life,WALTER CRONKITE,1996,Knopf
+596,11676,0849953014,3.678339175515658,Life Lessons: Book Of Hebrews,Max Lucado,1997,W Publishing Group
+597,11676,0156013967,3.677953173267874,"My Father, Dancing (Harvest Book)",Bliss Broyard,2000,Harvest Books
+598,11676,0385496907,3.674981086414155,No Future Without Forgiveness,Desmond Mpilo Tutu,2000,Image
+599,11676,0440235057,3.671573886317445,Be Cool,Elmore Leonard,2000,Dell Publishing Company
+600,11676,0345395379,3.6709726951539827,Slow River,Nicola Griffith,1996,Ballantine Books
+601,11676,0684824442,3.670300123622694,REEF,Edith Wharton,1996,Scribner
+602,11676,2290314951,3.6671715519616916,Paroles de Poilus : Lettres et carnets du front 1914-1918,Collectif,2001,J'ai lu
+603,11676,0451204050,3.653476417019876,On Secret Service,John Jakes,2001,Signet Book
+604,11676,0060923245,3.6468796327141013,Sweet Hereafter Movie Tie-In : A Novel,Russell Banks,1992,Perennial
+605,11676,0345433173,3.645769061839894,The Tall Pine Polka,Lorna Landvik,1999,Ballantine Books
+606,11676,0425178242,3.6411933739055016,Kick Ass: Selected Columns of Carl Hiaasen,Carl Hiaasen,2001,Berkley Publishing Group
+607,11676,0812541642,3.6400986793538013,Waiting,Frank M. Robinson,2000,Tor Books
+608,11676,0771088191,3.636273084564909,The Best Canadian Animal Stories: Classic Tales by Master Storytellers,Muriel Whitaker,1997,McClelland &amp; Stewart
+609,11676,0345260317,3.6279317307625845,The Dragons of Eden: Speculations on the Evolution of Human Intelligence,Carl Sagan,1978,Ballantine Books
+610,11676,0684867818,3.6278915870029578,The Looking Glass : A Novel (The Locket Series),Richard Paul Evans,1999,Simon &amp; Schuster
+611,11676,068983585X,3.625361677402875,The Janitor's Boy,Andrew Clements,2001,Aladdin
+612,11676,0895774666,3.6247680404833624,Watercolor School (Reader's Digest Learn-As-You-Go Guides),Hazel Harrison,1993,Readers Digest
+613,11676,0440234964,3.611315883333499,All or Nothing (Wheeler Large Print Books),Elizabeth Adler,2000,Island
+614,11676,0060809027,3.605913516105532,My Friend Flicka,Mary O'Hara,1988,Perennial
+615,11676,0312145543,3.602358306071475,Brewing Up a Storm: A John Thatcher Mystery,Emma Lathen,1996,St Martins Pr
+616,11676,8483002523,3.599172098495313,La mirada del tafur (ColÂ¨lecciÃ³ clÃ ssica),Ferran Torrent,1997,Columna
+617,11676,0449131548,3.5987049118568626,All the Days of My Life,Hilary Bailey,1986,Fawcett Books
+618,11676,0373245696,3.598373081382503,"Practice Makes Pregnant   Manhattan Multiples (Silhouette Special Edition, 1569)",Lois Faye Dyer,2003,Silhouette
+619,11676,1573228737,3.5964487133987517,Affinity,Sarah Waters,2002,Riverhead Books
+620,11676,0553256785,3.595759415310675,SLEEPING MURDER,AGATHA CHRISTIE,1983,Bantam
+621,11676,0895872102,3.5939521859662626,"The Hauntings of Williamsburg, Yorktown, and Jamestown",Jackie Eileen Behrend,1998,John F. Blair Publisher
+622,11676,0451184718,3.593860145597224,The Rosewood Casket,Sharyn McCrumb,1997,Signet Book
+623,11676,0060575808,3.59228471870833,"Two Princesses of Bamarre, The",Gail Carson Levine,2004,Eos
+624,11676,067170124X,3.588234754211602,HIS LITTLE WOMEN : HIS LITTLE WOMEN,Judith Rossner,1991,Pocket
+625,11676,055329198X,3.5834406546349125,Wolf Moon,John R. Holt,1997,Bantam
+626,11676,0553579673,3.5823970844714004,Hen's Teeth,Manda Scott,1999,Bantam Books
+627,11676,0380752115,3.5725146424243523,Whisper to Me of Love,Shirlee Busbee,1991,Harper Mass Market Paperbacks
+628,11676,0345251733,3.5710701201473887,Rainbow the Stormy Life of Judy Garland,Christopher Finch,0,Ballantine Books
+629,11676,1567920047,3.5698563269441244,A Tally of Types: With Additions by Several Hands ; And With a New Introduction by Mike Parker,Stanley Morison,1999,David R. Godine Publisher
+630,11676,0060804157,3.5680925350328976,He Understanding Masculine Psychology,Robert A Johnson,1977,Harpercollins Publisher
+631,11676,3442410665,3.5676821683757525,Sturmzeit. Roman.,Charlotte Link,1991,Goldmann
+632,11676,0140029400,3.5649848526487418,The Mimic Men,V. S. Naipaul,1992,Penguin USA
+633,11676,0020437501,3.5648507349025382,Rosie'S Walk,Pat Hutchins,1971,Aladdin
+634,11676,0439319552,3.56072200108018,Horus's Horrible Day (First Graders from Mars),Shana Corey,2001,Scholastic
+635,11676,0880701102,3.549223296337077,Come Before Winter and Share My Hope,Charles R. Swindoll,1985,Word Publishing
+636,11676,0590687301,3.5474908309477717,Ralph S. Mouse,Beverly Cleary,2000,Scholastic
+637,11676,0449006557,3.5454814220713278,Half Moon Street (Charlotte &amp; Thomas Pitt Novels (Paperback)),Anne Perry,2001,Ballantine Books
+638,11676,0743245024,3.542319457437014,The Forsyte Saga : The Man of Property and In Chancery,John Galsworthy,2002,Touchstone
+639,11676,0821770209,3.540473406550366,About Face,Fern Michaels,2003,Zebra Books
+640,11676,0679777431,3.537297596643119,"The Game of Kings (Lymond Chronicles, 1)",DOROTHY DUNNETT,1997,Vintage
+641,11676,080411952X,3.519405002776974,The Unsung Hero,Suzanne Brockmann,2000,Ivy Books
+642,11676,038078243X,3.5051477735626824,Miss Zukas and the Raven's Dance,Jo Dereske,1996,Avon
+643,11676,8472227421,3.5016085271787487,Essa efa (ColÂ¨lecciÃ³ El Mirall i el temps),OfÃ¨lia Dracs,1985,Editorial Laia
+644,11676,1853260622,3.4968092541818465,War and Peace (Wordsworth Classics),Leo Tolstoy,1997,NTC/Contemporary Publishing Company
+645,11676,0688169678,3.494842297671577,We Are Our Mothers' Daughters,Cokie Roberts,2000,Perennial
+646,11676,1555835953,3.4938923479489072,Witchfire,Lauren Maddison,2001,Alyson Books
+647,11676,0670856045,3.489369190824039,The Tortilla Curtain,T. Coraghessan Boyle,1995,Viking Books
+648,11676,0451188209,3.4792865585685333,A Palette for Murder: Murder She Wrote (Murder She Wrote (Paperback)),Jessica Fletcher,1996,Signet Book
+649,11676,0743201078,3.4491917313972307,"The Secret Lives of Girls: What Good Girls Really Do--Sex Play, Aggression, and Their Guilt",Sharon Lamb,2002,Free Press
+650,11676,0671779338,3.447126107577774,Border Bride,Arnette Lamb,1993,Pocket
+651,11676,0399147012,3.4450799100356595,Edge of Danger,Jack Higgins,2001,Putnam Publishing Group
+652,11676,055321215X,3.4112862921083966,Pride and Prejudice,Jane Austen,1983,Bantam
+653,11676,0525944834,3.399819600004288,Liar's Game,Eric Jerome Dickey,2000,Dutton Books
+654,11676,0060192631,3.390025460626849,One Heart,Jane McCafferty,1999,HarperCollins Publishers
+655,11676,0849943728,3.3895636606171355,Three,Ted Dekker,2003,WestBow Press
+656,11676,0440117291,3.386398118616434,DREAMSNAKE,VONDA MCINTYRE,1986,Dell
+657,11676,006052779X,3.3824064008493204,Charlotte's Web Book and Charm (Charming Classics),E. B. White,2003,HarperFestival
+658,11676,0804117934,3.381623549472855,The Silent Cry (William Monk Novels (Paperback)),Anne Perry,1998,Ivy Books
+659,11676,1853262404,3.3610897978100205,Heart of Darkness (Wordsworth Collection),Joseph Conrad,1998,NTC/Contemporary Publishing Company
+660,11676,0451154916,3.314102557437859,The Crystal Handbook,Kevin Sullivan,1996,Signet Book
+661,11676,0425176428,3.311345657142238,What If?: The World's Foremost Military Historians Imagine What Might Have Been,Robert Cowley,2000,Berkley Publishing Group
+662,11676,0312288115,3.3104102601771777,Confessions of a Sociopathic Social Climber : The Katya Livingston Chronicles (Katya Livingston Chronicles (Hardcover)),Adele Lang,2002,Thomas Dunne Books
+663,11676,0440120470,3.3046326914072552,The Dinner Party,Howard Fast,1991,Dell Publishing Company
+664,11676,1569471096,3.295147825643643,Was It Something I Said?,Valerie Block,1998,Soho Press
+665,11676,0312953453,3.2862035246458503,Blood Oath,David Morrell,1994,St. Martin's Press
+666,11676,0140253580,3.270417183606016,Therapy,David Lodge,1996,Penguin Putnam~trade
+667,11676,0425156842,3.262691310052843,Sophie's World: A Novel About the History of Philosophy (Berkeley Signature Edition),Jostein Gaarder,1997,Berkley Publishing Group
+668,11676,0451526279,3.2535913556063516,Emma (Signet Classics (Paperback)),Jane Austen,1996,Signet Classics
+669,11676,0743403843,3.251576771116446,Decipher,Stel Pavlou,2002,Simon &amp; Schuster (Trade Division)
+670,11676,3442353866,3.2489812873631356,Der Fluch der Kaiserin. Ein Richter- Di- Roman.,Eleanor Cooney,2001,Goldmann
+671,11676,0747549923,3.236908221292322,Last Exit to Brooklyn,Hubert Selby,2000,Bloomsbury Pub Ltd
+672,11676,0440224829,3.222931526387371,Granny Dan,DANIELLE STEEL,2000,"Random House, Inc."
+673,11676,0553571486,3.205373805705466,Angel of Hope (Mercy Trilogy),Lurlene McDaniel,2000,Starfire
+674,11676,0020442408,3.2025591250220136,Prince Caspian,C. S. Lewis,1970,MacMillan Publishing Company.
+675,11676,0505524996,3.183744850299708,Contact,Susan Grant,2002,Love Spell
+676,11676,1573229148,3.1369084118926733,Crossing the Unknown Sea: Work As a Pilgrimage of Identity,David Whyte,2002,Riverhead Books
+677,11676,3498020862,3.1313736378850487,Die Korrekturen.,Jonathan Franzen,2002,"Rowohlt, Reinbek"
+678,11676,0345353625,3.0851032019853193,Her Mother's Daughter,Marilyn French,1990,Ballantine Books
+679,11676,0553574159,3.069713980199917,"The Paradise Snare (Star Wars: The Han Solo Trilogy, Volume 1)",A. C. Crispin,1998,Spectra Books
+680,11676,0451197275,2.9422601230763643,Saving Private Ryan: A Novel,Max Allan Collins,1998,Signet Book
+681,11676,0670035262,2.933306132286074,The Green Man : Tales from the Mythic Forest,Ellen Datlow,2002,Viking Juvenile
+682,11676,0308102282,2.931891303346721,Your Erroneous Zones,Wayne W. Dyer,1976,Harpercollins
+683,11676,0671742566,2.930346847703872,Tender Triumph (Sonnet Books),Judith McNaught,1991,Pocket
+684,11676,0316171107,2.9088912938908438,Like a Hole in the Head,Jen Banbury,1998,Little Brown &amp; Co
+685,11676,0440130913,2.885876596883375,Golden Cup,Belva Plain,1987,Dell
+686,11676,0060913509,2.856506254602922,In Country RI,Bobbie Ann Mason,1986,Perennial
+687,11676,0451452755,2.811461904182616,The Catswold Portal,Shirley Rousseau Murphy,1993,Roc
+688,11676,0060177586,2.672441397675305,Standing Firm: A Vice-Presidential Memoir,Dan Quayle,1994,Harpercollins
